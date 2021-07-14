@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aniruddhashinde29
-- 👀 I’m interested in Data Science and Analytics!
+- 👀 I’m interested in Data Science, Analytics, Machine Learning and AI!
 - 🌱 I’m currently pursuing Master's from University of Toronto in Human-Centred Data Science and Information Systems and Design.
 - 📫 To reach me, email - aniruddhashinde29@gmail.com
 
