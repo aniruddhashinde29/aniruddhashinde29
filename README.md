@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aniruddhashinde29
-- 👀 I’m interested in Data Science, Analytics, Machine Learning and AI!
+- 👀 I’m interested in Data Science and Machine Learning!
 - 💼 I'm currently working as a Data Scientist at Parkview Health.
 - 🌱 I graduated with a Master's degree from University of Toronto in Human-Centred Data Science in 2022.
 - 📫 To reach me, email - aniruddhashinde29@gmail.com
